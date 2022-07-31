@@ -1,3 +1,3 @@
 #leyendo csv
-carSpeeds <- read.csv(file = "profesores.csv")
-head(carSpeeds)
+dataProfes <- read.csv(file = "profesores.csv")
+head(dataProfes)
